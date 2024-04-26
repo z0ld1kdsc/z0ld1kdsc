@@ -8,7 +8,7 @@
 ---
 
 ## Programming languages & Frameworks:
-[![My Skills]((https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,php,py,mysql,lua)](https://skillicons.dev))
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,php,py,mysql,lua)](https://skillicons.dev)
 
 ## software :
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,vscodium)](https://skillicons.dev)
