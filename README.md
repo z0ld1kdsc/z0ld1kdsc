@@ -8,7 +8,7 @@
 ---
 
 ## Programming languages & Frameworks:
-[![My Skills]([![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,php,py,mysql,lua)](https://skillicons.dev))
+[![My Skills]((https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,php,py,mysql,lua)](https://skillicons.dev))
 
 ## software :
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,vscodium)](https://skillicons.dev)
@@ -16,15 +16,5 @@
 ## Distribution :
 [![My Skills](https://skillicons.dev/icons?i=linux,kali,windows)](https://skillicons.dev)
 
-## statistics :
-![Codewars](https://www.codewars.com/users/z0ld1kdsc/badges/large)
 
-## Github stats :
-<div style="display: flex;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SANAGOdev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Anurag's GitHub stats">
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SANAGOdev&&theme=tokyonight&layout=compact&langs_count=10" alt="Top Langs"">
-    </a>
 </div>
