@@ -10,11 +10,12 @@
 ## Programming languages & Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,php,py,mysql,lua)](https://skillicons.dev)
 
+## Distribution :
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,windows)](https://skillicons.dev)
+
 ## software :
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,vscodium)](https://skillicons.dev)
 
-## Distribution :
-[![My Skills](https://skillicons.dev/icons?i=linux,kali,windows)](https://skillicons.dev)
 
 ## Statistics :
 
