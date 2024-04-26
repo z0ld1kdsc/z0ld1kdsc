@@ -4,7 +4,7 @@
 
 ## About me : 
 
-`I am a french developer :)`
+`I'am a french developer !`
 ---
 
 ## Programming languages & Frameworks:
