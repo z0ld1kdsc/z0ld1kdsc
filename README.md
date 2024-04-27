@@ -1,6 +1,7 @@
+<a name="readme-top"></a>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hello%2C+i'am+z0ld1k+!+🏮)](https://git.io/typing-svg)
 ---
-<a name="readme-top"></a>
 <img src="https://i.pinimg.com/originals/93/9e/92/939e9273e3d6ef4f281cda31e9e62488.gif">
 
 ## About me : 
