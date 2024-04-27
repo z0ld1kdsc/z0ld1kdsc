@@ -34,7 +34,11 @@
 
 ## 📈 Statistics :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z0ld1kdsc&layout=compact)](https://github.com/z0ld1kdsc/github-readme-stats)
+<div style="display: flex;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=z0ld1kdsc&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" alt="Anurag's GitHub stats">
+    </a>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
