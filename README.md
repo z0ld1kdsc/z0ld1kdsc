@@ -36,7 +36,7 @@
 
 <div style="display: flex;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=z0ld1kdsc&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" alt="Anurag's GitHub stats">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=z0ld1kdsc&show_icons=true&include_all_commits=true&count_private=true&theme=onedark" alt="Anurag's GitHub stats">
     </a>
 
 
