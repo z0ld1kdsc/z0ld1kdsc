@@ -26,7 +26,7 @@
 
 z0ld1k -  [@zoldik_01](https://twitter.com/zoldik_01) -
 
-Project Link :  - [404gruppen](https://github.com/404Gruppen -
+Project Link :  - [404gruppen](https://github.com/404Gruppen) -
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
